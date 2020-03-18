@@ -1,0 +1,172 @@
+
+#cabecera 
+{
+	position: absolute;
+	top: 1%;
+	left: 2%;
+	height: 12%;
+	width: 96%;
+}
+
+
+
+#essence
+{
+	position: absolute;
+	top: 2%;
+	left: 2.5%;
+	height: 10%;
+	width: 10%;
+}
+
+#nav1
+{
+	position: absolute;
+	top: 2%;
+	left: 13%;
+	height: 10%;
+	width: 6%;
+}
+
+#nav2
+{
+	position: absolute;
+	top: 2%;
+	left: 19.6%;
+	height: 10%;
+	width: 5%;
+}
+
+#nav3
+{
+	position: absolute;
+	top: 2%;
+	left: 25.3%;
+	height: 10%;
+	width: 34%;
+}
+
+#busqueda
+{
+	position: absolute;
+	top: 2%;
+	left: 60%;
+	height: 10%;
+	width: 5%;
+}
+
+
+#favoritos
+{
+	position: absolute;
+	top: 2%;
+	left: 65.5%;
+	height: 10%;
+	width: 5%;
+}
+
+
+#sesion
+{
+	position: absolute;
+	top: 2%;
+	left: 71%;
+	height: 10%;
+	width: 5%;
+}
+
+
+#carrito
+{
+	position: absolute;
+	top: 2%;
+	left: 78%;
+	height: 10%;
+	width: 5%;
+}
+
+
+#contenido 
+{
+	position: absolute;
+	top: 14.5%;
+	left: 2%;
+	width: 96%;
+	height: 250%;
+}
+
+#coleccion
+
+{
+	position: absolute;
+	top: 1%;
+	left: 1%;
+	width: 98%;
+	height: 25%;
+}
+
+#pro1
+{
+	position: absolute;
+	top: 27%;
+	left: 1%;
+	width: 30%;
+	height: 25%;
+}
+
+#pro2
+{
+	position: absolute;
+	top: 27%;
+	left: 32%;
+	width: 32%;
+	height: 25%;
+}
+
+#pro3
+{
+	position: absolute;
+	top: 27%;
+	left: 65%;
+	width: 34%;
+	height: 25%;
+}
+
+
+#popular
+{
+	position: absolute;
+	top: 53%;
+	left: 1%;
+	height: 22%;
+	width: 98%;
+}
+
+#otros
+{
+	position: absolute;
+	top: 76%;
+	left: 1%;
+	height: 22%;
+	width: 98%;
+}
+
+
+
+
+
+
+
+#piedepagina 
+{
+	position: absolute;
+	top: 101%;
+	left: -.2%;
+	height: 6%;
+	width: 100%;
+}
+
+#cabecera, #essence, #nav1, #nav2, #nav3, #busqueda, #favoritos, #sesion, #carrito, #indice, #contenido,#coleccion, #pro1, #pro2, 
+#pro3, #popular, #otros, #piedepagina{
+border: solid;
+}
