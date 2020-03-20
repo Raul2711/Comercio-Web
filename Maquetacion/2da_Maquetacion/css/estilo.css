@@ -1,0 +1,25 @@
+/* CSS Document */
+#logo {
+	float: left;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	width: 100%;
+	text-align: center;
+	font-stretch: Calibre;
+	font-size: 250%;
+	color: rgba(0,0,0,1.00);
+	background-color: rgba( 30, 132, 73,1.00);
+}
+.conti{
+	background-color: rgba(179,245,79,1.00);
+	color: rgba(56,88,32,1.00);
+}
+.botones{
+	color: rgba(56,88,32,1.00);
+	-webkit-text-stroke: .1px black;
+}
+.foter{
+	background-color: rgba(179,245,79,1.00);
+	width: 100%;
+}
+
